@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1771431266 source:c:\users\isaac\onedrive\documents\estructura de datos\pilaconarreglofijotemplate\main.cpp
+	"Pila.hpp"
+	<iostream>
+	<string>
+	"..\OperacionesVectores/Vector.hpp"
+
+1771431016 c:\users\isaac\onedrive\documents\estructura de datos\pilaconarreglofijotemplate\pila.hpp
+	<exception>
+	<iostream>
+	"Pila.tpp"
+
+1771431727 c:\users\isaac\onedrive\documents\estructura de datos\pilaconarreglofijotemplate\pila.tpp
+	"Pila.hpp"
+
+1770310684 c:\users\isaac\onedrive\documents\estructura de datos\operacionesvectores\vector.hpp
+	<iostream>
+

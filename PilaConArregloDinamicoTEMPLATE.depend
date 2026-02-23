@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1771861571 source:c:\users\isaac\onedrive\documents\estructura de datos\pilaconarreglodinamicotemplate\main.cpp
+	"Pila.hpp"
+	<iostream>
+	<string>
+
+1771861523 c:\users\isaac\onedrive\documents\estructura de datos\pilaconarreglodinamicotemplate\pila.hpp
+	<exception>
+	<iostream>
+	"Pila.tpp"
+
+1771861650 c:\users\isaac\onedrive\documents\estructura de datos\pilaconarreglodinamicotemplate\pila.tpp
+
