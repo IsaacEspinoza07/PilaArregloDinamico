@@ -1,0 +1,35 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-noquoting]{babel}
+\usepackage[a4paper, margin=1in, landscape]{geometry}
+\usepackage{tabularx}
+% Paquete para controlar los márgenes de las listas dentro de la tabla
+\usepackage{enumitem} 
+
+\begin{document}
+
+\begin{center}
+    \Large \textbf{BITÁCORA TAREA PILAS.}
+\end{center}
+\vspace{0.3cm}
+
+\renewcommand{\arraystretch}{1.6} 
+\noindent
+\begin{tabularx}{\textwidth}{|l|p{2.5cm}|l|X|X|X|}
+\hline
+\textbf{Fecha} & \textbf{Actividad} & \textbf{Duración} & \textbf{Aportación de David} & \textbf{Aportación de Isaac} & \textbf{Avance} \\
+\hline
+23/02/2026 & Codificación y documentación & 4 horas & 
+\begin{itemize}[leftmargin=*, topsep=0pt, itemsep=0.2cm]
+    \item Documentación del código
+\end{itemize} & 
+\begin{itemize}[leftmargin=*, topsep=0pt]
+    \item Codificación de constructor de copias, sobrecarga del operador igual y redimensión.
+     \item Creación del repo de github.
+\end{itemize} & 
+Implementación de las funciones restantes y la documentación mediante Doxygen \\
+\hline
+\end{tabularx}
+
+\end{document}
