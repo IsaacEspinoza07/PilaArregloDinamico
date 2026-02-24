@@ -1,0 +1,21 @@
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:74: warning: found documented return type for Pila::Pila that does not return anything
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:81: warning: found documented return type for Pila::~Pila that does not return anything
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:87: warning: argument 'Pila' of command @param is not found in the argument list of Pila< T >::Pila(const Pila< T > &pila)
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:87: warning: The following parameter of Pila::Pila(const Pila< T > &pila) is not documented:
+  parameter 'pila'
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:87: warning: found documented return type for Pila::Pila that does not return anything
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:103: warning: argument 'Valor' of command @param is not found in the argument list of Pila< T >::Agregar(T valor)
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:103: warning: The following parameter of Pila::Agregar(T valor) is not documented:
+  parameter 'valor'
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:103: warning: found documented return type for Pila::Agregar that does not return anything
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:112: warning: found documented return type for Pila::Eliminar that does not return anything
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:152: warning: found documented return type for Pila::Imprimir that does not return anything
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:94: warning: argument 'Pila' of command @param is not found in the argument list of Pila< T >::operator=(const Pila< T > &pila)
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:94: warning: The following parameter of Pila::operator=(const Pila< T > &pila) is not documented:
+  parameter 'pila'
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:138: warning: found documented return type for Pila::Vaciar that does not return anything
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:64: warning: argument 'par' of command @param is not found in the argument list of Pila< T >::operator<<(std::ostream &salida, const Pila< TT > &pila)
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:64: warning: argument 'aacute' of command @param is not found in the argument list of Pila< T >::operator<<(std::ostream &salida, const Pila< TT > &pila)
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:64: warning: argument 'metro' of command @param is not found in the argument list of Pila< T >::operator<<(std::ostream &salida, const Pila< TT > &pila)
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:64: warning: argument 'Pila' of command @param is not found in the argument list of Pila< T >::operator<<(std::ostream &salida, const Pila< TT > &pila)
+C:/Users/legal/OneDrive/Desktop/Trabajos Uni/Visual Studio Code/Pila Con Arreglo Dinamico/Pila.hpp:170: warning: found documented return type for Pila::PilaVacia::PilaVacia that does not return anything

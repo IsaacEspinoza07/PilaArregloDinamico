@@ -5,8 +5,11 @@
 template<typename T /*= int*/>
 Pila<T>::Pila(): tope(SIN_ELEMENTOS), capacidad(15)
 {
-    // Gestionar la excepción bad-alloc de 'new'.
+    try{
         elemento = new T[capacidad];
+    }catch(std::bad_alloc &){
+        throw "Error en la asigaci\162n de memoria";
+    }
 }
 /* ----------------- Destructor ----------------- */
 template <typename T>

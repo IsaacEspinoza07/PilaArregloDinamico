@@ -1,3 +1,6 @@
+/*
+Autores: David Armando Angulo Gil, Isaac Espinoza Hernández
+*/
 #include "Pila.hpp"
 #include <iostream>
 #include <string>
@@ -21,6 +24,8 @@ int main()
             p.Agregar(i);
         }
         cout << p.ObtenerCapacidad();
+
+        return 0;
 
 
 
